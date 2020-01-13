@@ -2,7 +2,7 @@
 
 Shows the current python environment name in iTerm's status bar, saving precious space in the shell prompt area.
 
-
+<img width="416" alt="image" src="https://user-images.githubusercontent.com/19492893/72273870-263cef80-3651-11ea-91ad-8ea3a9286927.png">
 
 ## Installation
 
